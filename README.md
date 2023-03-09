@@ -33,7 +33,7 @@ Stary Sobor Custom File
 cratesntables.json
 
 - 4 Static Heli Crash Sites at each corner of the city to expand gear availability
-- Custom loot crates (single, 3x, 5x) at Military to expand loot potential
+- Custom loot crates (single, 3x, 5x) & tables at Military to expand loot potential
 
 ~~~
 
@@ -54,7 +54,7 @@ Persistent server time : Unchecked
 Enable cfggameplay.json : CHECK to use custom json files (cratesntables.json)
 
 If you dont want the custom file loaded -
-Disable Heli Sites & cratesntables by removing noted text in mapgrouppos & deleting custom file
+Uncheck box & delete cratesntables by removing noted text in mapgrouppos.
 
 ~~~
 

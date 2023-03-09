@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<eventposdef>
+	<event name="VehicleCivilianSedan">
+	</event>
+	<event name="VehicleSedan02">
+	</event>
+	<event name="VehicleHatchback02">
+	</event>
+    <event name="StaticHeliCrash">
+		<zone smin="1" smax="4" dmin="0" dmax="0" r="30" />
+    </event>
+    <event name="StaticSantaCrash">
+		<zone smin="0" smax="0" dmin="0" dmax="0" r="45" />
+    </event>
+	<event name="StaticChristmasTree">
+	</event>
+    <event name="StaticBonfire">
+		<zone smin="0" smax="0" dmin="0" dmax="0" r="55" />
+	</event>
+    <event name="StaticContaminatedArea">
+		<zone smin="0" smax="0" dmin="0" dmax="0" r="75" />
+	</event>
+    <event name="Loot" />
+    <event name="VehicleOffroadHatchback">
+    </event>
+    <event name="StaticPoliceCar">
+		<zone smin="0" smax="0" dmin="0" dmax="0" r="45" />
+    </event>
+	<event name="ItemPlanks">
+    </event>
+    <event name="VehicleTruck01">
+	</event>
+	<event name="StaticTrain">
+        <zone smin="0" smax="0" dmin="0" dmax="0" r="20" />
+    </event>
+	<event name="VehicleOffroad02">
+        <pos x="6260.272949" z="7843.914551" a="305.01022" />
+    </event>
+    <event name="StaticMilitaryConvoy">
+        <zone smin="1" smax="1" dmin="1" dmax="1" r="20" />
+        <pos x="6427.380" z="8027.553" a="0" y="323.645" group="Abandoned_StarySobor"/>
+    </event>
+    <event name="StaticPoliceSituation">
+        <zone smin="1" smax="1" dmin="1" dmax="1" r="20" />
+        <pos x="6582.245" z="7508.025" a="0" y="283.046" group="Traffic_Stary"/>
+    </event>
+    <event name="VehicleTransitBus" />
+    <event name="InfectedVillage" />
+    <event name="InfectedSolitude" />
+    <event name="InfectedArmy" />
+    <event name="InfectedCity" />
+    <event name="InfectedMedic" />
+    <event name="InfectedPolice" />
+    <event name="InfectedFirefighter" />
+    <event name="InfectedPrisoner" />
+    <event name="AnimalDeer" />
+    <event name="AnimalCow" />
+    <event name="AnimalSheep" />
+    <event name="AnimalRoeDeer" />
+    <event name="AnimalWolf" />
+    <event name="AnimalWildBoar" />
+</eventposdef>

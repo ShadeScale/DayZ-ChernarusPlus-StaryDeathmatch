@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eventgroupdef>
+    <!--pos deloot="0" lootmax="4" lootmin="2" x="6427.380" z="8027.553" a="0" y="323.645" group="Abandoned_StarySobor"/-->
+    <group name="Abandoned_StarySobor">
+        <child type="StaticObj_Wreck_BRDM_DE" deloot="0" lootmax="3" lootmin="2" x="0" z="0" a="268.083"/>
+        <child type="StaticObj_Wreck_Ural_DE" deloot="0" lootmax="3" lootmin="2" x="-6.066" z="-13.215" a="338.600"/>
+        <child type="StaticObj_Wreck_Decal_Small2" spawnsecondary="false" x="-5.000" z="-12.651" a="355.230"/>
+        <child type="StaticObj_Wreck_Decal_Small2" spawnsecondary="false" x="-0.927" z="0.413" a="267.052"/>
+        <child type="StaticObj_Wreck_BMP2_DE" deloot="0" lootmax="3" lootmin="2" x="-15.567" z="-34.421" a="13.407"/>
+        <child type="Land_Wreck_offroad02_aban1" deloot="0" lootmax="3" lootmin="2" x="-11.388" z="-50.983" a="346.980"/>
+        <child type="StaticObj_Wreck_Uaz_DE" deloot="0" lootmax="3" lootmin="2" x="-6.208" z="-25.354" a="19.466"/>
+        <child type="StaticObj_Wreck_Decal_Small2" spawnsecondary="false" x="-6.266" z="-25.013" a="18.048"/>
+        <child type="StaticObj_Wreck_Decal_Small2" spawnsecondary="false" x="-11.559" z="-49.757" a="342.854"/>
+        <child type="StaticObj_Wreck_Decal_Small2" spawnsecondary="false" x="-13.995" z="-34.665" a="10.055"/>
+    </group>
+    <!--pos deloot="0" lootmax="4" lootmin="2" x="6582.245" z="7508.025" a="0" y="283.046" group="Traffic_Stary"/-->
+    <group name="Traffic_Stary">
+        <child type="Land_Wreck_sed01_aban1_police" deloot="0" lootmax="4" lootmin="2" x="0" z="0" a="347.821"/>
+        <child type="Land_Wreck_hb02_aban1_blue" deloot="0" lootmax="4" lootmin="2" x="11.217" z="-1.647" a="83.666"/>
+        <child type="StaticObj_Wreck_Decal_Small1" spawnsecondary="false" x="11.345" z="-1.885" a="85.987"/>
+        <child type="StaticObj_Wreck_Decal_Small1" spawnsecondary="false" x="-0.549" z="0.504" a="170.426"/>
+        <child type="StaticObj_Wreck_Decal_Small1" spawnsecondary="false" x="20.372" z="-1.307" a="255.897"/>
+        <child type="Land_Wreck_sed01_aban2_police" deloot="0" lootmax="4" lootmin="2" x="20.350" z="-1.366" a="76.060"/>
+    </group>
+	
+	
+</eventgroupdef>
